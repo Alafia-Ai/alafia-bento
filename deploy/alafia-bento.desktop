@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Alafia Browser Apps
+Terminal=false
+Icon=/opt/alafia-ai/alafia-bento/deploy/alafia-bento.svg
+Exec=/opt/alafia-ai/alafia-bento/deploy/alafia-bento.sh
